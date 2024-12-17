@@ -1,0 +1,77 @@
+{
+  "TR1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://euc1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://tr-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.tr1"
+  },
+  "EUW1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://euc1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://euw-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.euw1"
+  },
+  "BR1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://usw2-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://br-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-usw2-prod.br1"
+  },
+  "EUN1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://euc1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://eune-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.eun1"
+  },
+  "NA1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://usw2-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://na-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-usw2-prod.na1"
+  },
+  "LA1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://usw2-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://lan-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-usw2-prod.la1"
+  },
+  "LA2": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://usw2-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://las-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-usw2-prod.la2"
+  },
+  "RU": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://euc1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://ru-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.ru"
+  },
+  "OC1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://apse1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://oce-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-apse1-prod.oc1"
+  },
+  "JP1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://apne1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://jp-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-apne1-prod.jp1"
+  },
+  "SG2": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://apse1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://sg2-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.sg2"
+  },
+  "PH2": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://apse1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://ph2-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.ph2"
+  },
+  "VN2": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://apse1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://vn2-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.vn2"
+  },
+  "TH2": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://apse1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://th2-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.th2"
+  },
+  "ME1": {
+    "PLAYER_PLATFORM_EDGE_URL": "https://euc1-red.pp.sgp.pvp.net",
+    "LEAGUE_EDGE_URL": "https://me1-red.lol.sgp.pvp.net",
+    "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.me1"
+  }
+}
