@@ -74,7 +74,7 @@
     "LEAGUE_EDGE_URL": "https://me1-red.lol.sgp.pvp.net",
     "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-euc1-prod.me1"
   },
-  "ME1": {
+  "TW2": {
     "PLAYER_PLATFORM_EDGE_URL": "https://apse1-red.pp.sgp.pvp.net",
     "LEAGUE_EDGE_URL": "https://tw2-red.lol.sgp.pvp.net",
     "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-apse1-prod.tw2"
