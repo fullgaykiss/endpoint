@@ -84,7 +84,7 @@
     "LEAGUE_EDGE_URL": "https://kr-red.lol.sgp.pvp.net",
     "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-apne1-prod.kr"
   },
-   "PBE1": {
+   "PBE": {
     "PLAYER_PLATFORM_EDGE_URL": "https://usw2-red.pp.sgp.pvp.net",
     "LEAGUE_EDGE_URL": "https://pbe1-red.lol.sgp.pvp.net",
     "DISCOVEROUS_SERVICE_LOCATION": "lolriot.aws-usw2-prod.pbe1"
